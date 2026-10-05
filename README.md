@@ -17,3 +17,11 @@ Suppliers deliver fewer units than ordered (recorded on paper dock delivery chal
 2. **Deterministic Math Tool:** Calculates Quantity Variance and Rate Creep.
 3. **Evidence Linker:** Grounds variances to supervisor notes.
 4. **Debit Memo Synthesizer:** Auto-generates formal deduction notices.
+
+
+# ReconcileOS — Autonomous 3-Way Match & Margin Leakage Auditor
+> Built for **WCC Launchpad 30** (Track: Agentic AI / Everyday Automation)
+
+🔗 **Live Deployed Prototype:** [Launch ReconcileOS App]https://reconcileos.lovable.app/  
+
+---
